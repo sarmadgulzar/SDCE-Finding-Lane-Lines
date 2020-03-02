@@ -22,7 +22,7 @@ Let's have a look at our first image called 'test_images/solidWhiteRight.jpg'.  
 ---
 
 <figure>
- <img src="examples/line-segments-example.jpg" width="380" alt="Combined Image" />
+ <img src="P1_files/line-segments-example.jpg" width="380" alt="Combined Image" />
  <figcaption>
  <p></p> 
  <p style="text-align: center;"> Your output should look something like this (above) after detecting line segments using the helper functions below </p> 
@@ -30,7 +30,7 @@ Let's have a look at our first image called 'test_images/solidWhiteRight.jpg'.  
 </figure>
  <p></p> 
 <figure>
- <img src="examples/laneLines_thirdPass.jpg" width="380" alt="Combined Image" />
+ <img src="P1_files/laneLines_thirdPass.jpg" width="380" alt="Combined Image" />
  <figcaption>
  <p></p> 
  <p style="text-align: center;"> Your goal is to connect/average/extrapolate line segments to get output like this</p> 
